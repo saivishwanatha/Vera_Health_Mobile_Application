@@ -1,0 +1,12 @@
+import { SafeAreaProvider } from 'react-native-safe-area-context'
+import { StatusBar } from 'expo-status-bar'
+import ChatScreen from './src/screens/ChatScreen'
+
+export default function App() {
+  return (
+    <SafeAreaProvider>
+      <StatusBar style='light' />
+      <ChatScreen />
+    </SafeAreaProvider>
+  )
+}
