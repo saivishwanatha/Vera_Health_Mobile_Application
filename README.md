@@ -4,20 +4,11 @@ Expo SDK 54 app that streams SSE from the assignment endpoint
 Parses tagged sections into collapsible blocks and renders markdown live  
 Shows SEARCH_STEPS progress during streaming
 
-## Live links
-
-- Web demo  
-  https://githubusername.github.io/vera-mobile-54
-
-- Android preview APK  
-  https://expo.dev/accounts/<acct>/projects/<proj>/builds/<id>
-
-- iOS Simulator build  
-  https://expo.dev/accounts/<acct>/projects/<proj>/builds/<id>
 
 ## Screenshots
+![WhatsApp Image 2025-11-08 at 23 29 29 (1)](https://github.com/user-attachments/assets/5df15e36-77f8-44f5-8444-633d060e0bc7)
 
-![Chat streaming with collapsible sections](docs/screenshot-chat.png)
+
 
 ## Demo video
 
