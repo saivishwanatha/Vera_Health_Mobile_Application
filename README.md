@@ -21,7 +21,7 @@ Expo React Native app that streams SSE from the assignment API, renders markdown
 
 
 If the player above does not appear in your browser, use this link instead  
-[▶️ Watch the demo video](docs/Demo_video.mp4)
+[▶️ Download(donwload the raw file) the demo video](docs/Demo_video.mp4)
 
 
 
